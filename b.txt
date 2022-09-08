@@ -1,1 +1,2 @@
-i am b file
+I am B file
+this is second line
