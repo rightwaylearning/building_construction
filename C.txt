@@ -1,0 +1,2 @@
+I am C file
+this is second line
