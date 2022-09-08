@@ -1,1 +1,2 @@
-i am a c file
+I am C file
+this is second line
